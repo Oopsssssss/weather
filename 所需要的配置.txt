@@ -1,6 +1,3 @@
-后续还有最新版本，请持续关注东阁以获取
-https://oo1o.cn
-
 
 模版消息的标题就是你推送时显示的标题
 模版消息内容复制下方的代码
@@ -16,7 +13,7 @@ https://oo1o.cn
 ☄️大气压强：{{pressure.DATA}}
 {{birthday1.DATA}} 
 {{birthday2.DATA}}
-今天是我门相识的第{{love_day.DATA}}天
+
 
 
 
